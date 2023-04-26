@@ -1,2 +1,2 @@
-# symptom-diagnosis-chatbot
-A Symptom Diagnosis Chatbot using Dialogflow framework 
+# dialogflow-medical-bot
+A Chatbot created using Dialogflow framework which gives Symptom Diagnosis.
